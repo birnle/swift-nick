@@ -3,7 +3,7 @@
 //  Übungsplatz
 //
 //  Created by Oliver Roman on 03.12.16.
-//  Copyright © 2016 Oliver Roman. All rights reserved.😊
+//  Copyright © 2016 Oliver Roman. All rights reserved.😊😇
 //
 
 import UIKit
