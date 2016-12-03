@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func meinKnopf(_ sender: Any) {
-        meinLabel.text = "Oliver Roman"
+        meinLabel.text = "Das hat geklappt!"
         print("meinKnopf wurde gedrückt")
     }
     
